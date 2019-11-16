@@ -1,6 +1,6 @@
 ## How to create a new repository !  
 
-###  - ...or create a new repository on the command lin  
+### - ...or create a new repository on the command lin  
 
 ~~~bash
 	echo "# mytools" >> README.md  

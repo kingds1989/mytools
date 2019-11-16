@@ -1,12 +1,14 @@
 ## How to create a new repository !
 
 ### ...or create a new repository on the command lin
-~~~echo "# mytools" >> README.md  
+~~~
+echo "# mytools" >> README.md  
 git init  
 git add README.md  
 git commit -m "first commit"  
 git remote add origin git@github.com:kingds1989/mytools.git  
-git push -u origin master  ~~~
+git push -u origin master  
+~~~
 ___
 ### ...or push an existing repository from the command lin
 git remote add origin git@github.com:kingds1989/mytools.git  
